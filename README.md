@@ -6,18 +6,14 @@
 
 **An offline, Raspberry Pi-powered wearable assistive AI system that turns visual surroundings into meaningful spoken guidance.**
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/)
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-YOLO11n-1572B6?style=flat-square)](https://docs.ultralytics.com/)
-[![Offline](https://img.shields.io/badge/Inference-100%25%20Local-238636?style=flat-square)](https://omspace.dev/pages/project-whispering-hat.html)
-[![Status](https://img.shields.io/badge/Status-Working%20Prototype-777777?style=flat-square)](https://omspace.dev/pages/project-whispering-hat.html)
+**Python 3** · **Raspberry Pi 5** · **YOLO11n** · **Offline AI** · **Working Prototype**
 
-[**Project Website**](https://omspace.dev/pages/project-whispering-hat.html) · [**Watch Demo**](https://omspace.dev/pages/project-whispering-hat.html) · [**Source Code**](https://github.com/overcharged-coder/WhisperingHat) · [**Om's Portfolio**](https://omspace.dev)
+[**▶ Watch Demo**](https://www.youtube.com/watch?v=bRwE4cI1WvA) · [**Source Code**](https://github.com/overcharged-coder/WhisperingHat)
 
 <br>
 
-<a href="https://omspace.dev/pages/project-whispering-hat.html">
-  <img src="https://omspace.dev/images/what/what1.jpg" alt="Whispering Hat prototype with Raspberry Pi, camera, and depth sensor mounted on a cap" width="760">
+<a href="https://www.youtube.com/watch?v=bRwE4cI1WvA">
+  <img src="https://img.youtube.com/vi/bRwE4cI1WvA/hqdefault.jpg" alt="Watch Whispering Hat video demonstration on YouTube" width="760">
 </a>
 
 <sub>Whispering Hat prototype · Built and developed by Om Chatterjee · 2026</sub>
@@ -198,13 +194,13 @@ On an appropriately configured Raspberry Pi, the system can use the camera and d
 
 <div align="center">
 
-[![View the Whispering Hat prototype](https://omspace.dev/images/what/what1.jpg)](https://omspace.dev/pages/project-whispering-hat.html)
+[![Watch the Whispering Hat demo on YouTube](https://img.youtube.com/vi/bRwE4cI1WvA/hqdefault.jpg)](https://www.youtube.com/watch?v=bRwE4cI1WvA)
 
-**[▶ Watch the demonstration and read the full project breakdown](https://omspace.dev/pages/project-whispering-hat.html)**
+**[▶ Watch the Whispering Hat demonstration on YouTube](https://www.youtube.com/watch?v=bRwE4cI1WvA)**
 
 </div>
 
-The portfolio page includes a demonstration video and a detailed discussion of the detection pipeline, sensor fusion, offline processing, and engineering decisions.
+Click the video thumbnail above to watch the Whispering Hat prototype in action. GitHub does not play embedded YouTube videos directly in README files, so the thumbnail links to the full YouTube demonstration.
 
 ## 🔬 Engineering Challenges
 
@@ -248,7 +244,7 @@ Test with appropriate supervision and controlled environments. Do not rely on it
 
 **Om Chatterjee** is a student developer interested in AI, robotics, software, and practical engineering. Whispering Hat explores how on-device intelligence and thoughtful interaction design can make visual information more useful and accessible.
 
-**[Explore Om's engineering portfolio →](https://omspace.dev)**
+**[Watch the project demo →](https://www.youtube.com/watch?v=bRwE4cI1WvA)**
 
 ---
 
@@ -256,7 +252,7 @@ Test with appropriate supervision and controlled environments. Do not rely on it
 
 **Built with curiosity, engineering, and a focus on accessibility.**
 
-[Portfolio](https://omspace.dev) · [Project Details](https://omspace.dev/pages/project-whispering-hat.html) · [Repository](https://github.com/overcharged-coder/WhisperingHat)
+[Watch Demo](https://www.youtube.com/watch?v=bRwE4cI1WvA) · [Repository](https://github.com/overcharged-coder/WhisperingHat)
 
 <sub>© 2026 Om Chatterjee · Whispering Hat</sub>
 
