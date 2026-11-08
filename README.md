@@ -1,22 +1,43 @@
 <div align="center">
 
-# 🧢 Whispering Hat
+# 🧢 WHISPERING HAT
 
-### Awareness with context. Independence through technology.
+### See the world. Hear what matters.
 
-**An offline, Raspberry Pi-powered wearable assistive AI system that turns visual surroundings into meaningful spoken guidance.**
-
-**Python 3** · **Raspberry Pi 5** · **YOLO11n** · **Offline AI** · **Working Prototype**
-
-[**▶ Watch Demo**](https://www.youtube.com/watch?v=bRwE4cI1WvA) · [**Source Code**](https://github.com/overcharged-coder/WhisperingHat)
+**A privacy-first wearable that combines computer vision, spatial sensing, and edge AI to turn surroundings into timely spoken alerts.**
 
 <br>
 
-<img src="https://omspace.dev/images/what/what1.jpg" alt="Whispering Hat wearable assistive technology prototype" width="760">
+<img src="https://omspace.dev/images/what/what1.jpg" alt="Whispering Hat wearable assistive AI prototype" width="780" />
 
-<sub>Whispering Hat prototype · Built and developed by Om Chatterjee · 2026</sub>
+<sub><strong>THE PROTOTYPE</strong> · Designed & developed by Om Chatterjee · 2026</sub>
+
+<br><br>
+
+![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![YOLO](https://img.shields.io/badge/VISION-YOLO11n-00C4CC?style=for-the-badge)
+![Offline](https://img.shields.io/badge/AI-100%25%20LOCAL-117A65?style=for-the-badge)
+![Prototype](https://img.shields.io/badge/STATUS-WORKING%20PROTOTYPE-6F42C1?style=for-the-badge)
+
+<br>
+
+**[▶ WATCH THE DEMO](https://www.youtube.com/watch?v=bRwE4cI1WvA)** &nbsp; | &nbsp; **[⌘ EXPLORE THE CODE](https://github.com/overcharged-coder/WhisperingHat)**
 
 </div>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%"><strong>👁️ SEE</strong><br><sub>Detect and track relevant objects</sub></td>
+<td align="center" width="33%"><strong>📡 UNDERSTAND</strong><br><sub>Combine depth, motion and walking-path context</sub></td>
+<td align="center" width="33%"><strong>🔊 SPEAK</strong><br><sub>Deliver short, prioritized voice alerts</sub></td>
+</tr>
+</table>
+
+> [!IMPORTANT]
+> **Not another camera that narrates everything.** Whispering Hat is designed to decide *which* observations deserve the wearer's attention, and when.
 
 ---
 
