@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎩 Whispering Hat
+# 🧢 Whispering Hat
 
 ### Awareness with context. Independence through technology.
 
@@ -12,9 +12,7 @@
 
 <br>
 
-<a href="https://www.youtube.com/watch?v=bRwE4cI1WvA">
-  <img src="https://img.youtube.com/vi/bRwE4cI1WvA/hqdefault.jpg" alt="Watch Whispering Hat video demonstration on YouTube" width="760">
-</a>
+<img src="https://omspace.dev/images/what/what1.jpg" alt="Whispering Hat wearable assistive technology prototype" width="760">
 
 <sub>Whispering Hat prototype · Built and developed by Om Chatterjee · 2026</sub>
 
@@ -244,7 +242,7 @@ Test with appropriate supervision and controlled environments. Do not rely on it
 
 **Om Chatterjee** is a student developer interested in AI, robotics, software, and practical engineering. Whispering Hat explores how on-device intelligence and thoughtful interaction design can make visual information more useful and accessible.
 
-**[Watch the project demo →](https://www.youtube.com/watch?v=bRwE4cI1WvA)**
+**[▶ Watch the demonstration](https://www.youtube.com/watch?v=bRwE4cI1WvA)**
 
 ---
 
