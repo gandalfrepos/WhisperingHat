@@ -2,25 +2,27 @@
 
 # 🧢 WHISPERING HAT
 
+### See the world. Hear what matters.
+
+**A privacy-first wearable that combines computer vision, spatial sensing, and edge AI to turn surroundings into timely spoken alerts.**
+
+<br>
+
 <img src="https://omspace.dev/images/what/what1.jpg" alt="Whispering Hat wearable assistive AI prototype" width="780" />
 
 <sub><strong>THE PROTOTYPE</strong> · Designed & developed by Om Chatterjee · 2026</sub>
 
 <br><br>
 
-<img src="assets/whispering-hat-highlight.png" alt="See the world. Hear what matters. Context-aware spoken guidance, powered entirely on-device. Python 3, Raspberry Pi 5, YOLO11n, Offline AI." width="780" />
+![Python](https://img.shields.io/badge/PYTHON-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-5-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![YOLO](https://img.shields.io/badge/VISION-YOLO11n-00C4CC?style=for-the-badge)
+![Offline](https://img.shields.io/badge/AI-100%25%20LOCAL-117A65?style=for-the-badge)
+![Prototype](https://img.shields.io/badge/STATUS-WORKING%20PROTOTYPE-6F42C1?style=for-the-badge)
 
 <br>
 
-**A privacy-first wearable that combines computer vision, spatial sensing, and edge AI to turn surroundings into timely spoken alerts.**
-
-<br>
-
-**🐍 `Python 3`** &nbsp;·&nbsp; **`Raspberry Pi 5`** &nbsp;·&nbsp; **`YOLO11n`** &nbsp;·&nbsp; **`Offline AI`** &nbsp;·&nbsp; **`Working Prototype`**
-
-<br>
-
-**[▶ WATCH THE DEMO](https://www.youtube.com/watch?v=bRwE4cI1WvA)** &nbsp; | &nbsp; **[⌘ EXPLORE THE CODE](https://github.com/gandalfrepos/WhisperingHat)**
+**[▶ WATCH THE DEMO](https://www.youtube.com/watch?v=bRwE4cI1WvA)** &nbsp; | &nbsp; **[⌘ EXPLORE THE CODE](https://github.com/overcharged-coder/WhisperingHat)**
 
 </div>
 
@@ -172,7 +174,7 @@ A high-confidence object detection does **not** automatically mean danger. A cha
 **1. Clone the project**
 
 ```bash
-git clone https://github.com/gandalfrepos/WhisperingHat.git
+git clone https://github.com/overcharged-coder/WhisperingHat.git
 cd WhisperingHat
 ```
 
@@ -269,7 +271,7 @@ Test with appropriate supervision and controlled environments. Do not rely on it
 
 **Built with curiosity, engineering, and a focus on accessibility.**
 
-[Watch Demo](https://www.youtube.com/watch?v=bRwE4cI1WvA) · [Repository](https://github.com/gandalfrepos/WhisperingHat)
+[Watch Demo](https://www.youtube.com/watch?v=bRwE4cI1WvA) · [Repository](https://github.com/overcharged-coder/WhisperingHat)
 
 <sub>© 2026 Om Chatterjee · Whispering Hat</sub>
 
